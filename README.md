@@ -4,27 +4,11 @@ This repository contains a machine learning project focused on automating the re
 
 <img src="Cover.png" alt="resume cover">
 
-## Table of Contents
-
-- [Why do we need Resume Screening?](#why-do-we-need-resume-screening)
-- [Introduction](#introduction)
-- [Modules & Libraries](#modules--libraries)
-- [Functionality of Application](#functionality-of-application)
-- [Tools & Technologies Used](#tools--technologies-used)
-- [Tech Innovations in Resume Screening](#tech-innovations-in-resume-screening)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Why do we need Resume Screening?
 
-- For each recruitment, companies take out the resume, referrals and go through them manually.
-- Companies often received thousands of resumes for every job posting.
+- For each recruitment, companies take out the resume and referrals and go through them manually.
+- Companies often receive thousands of resumes for every job posting.
 - When companies collect resumes then they categorize those resumes according to their requirements and then they send the collected resumes to the Hiring Teams.
 - It becomes very difficult for the hiring teams to read the resume and select the resume according to the requirement, there is no problem if there are one or two resumes but it is very difficult in case of hundreds of resumes.
 - To solve this problem, we will screen the resume using machine learning and NLP using Python so that we can complete days of work in few minutes.
